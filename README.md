@@ -1,16 +1,17 @@
-## Hi there 👋
+# Erik Lemus
 
-<!--
-**reydem/reydem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder building [SixDriven](https://sixdriven.com) — governance infrastructure for AI-assisted software delivery.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building SixDriven, a six-layer framework that structures software delivery from intent to integration.
+- Designing traceability, policy validation, and evidence for AI-assisted software changes.
+- Developing iHexHubs, a technical project for independently verifiable evidence in financial and administrative decisions.
+
+## Links
+
+- Website: https://sixdriven.com
+- LinkedIn: https://www.linkedin.com/in/eriklemus/
+- GitHub organization: https://github.com/sixdriven
+
+📍 Santa Marta, Colombia
